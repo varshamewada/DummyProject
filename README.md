@@ -1,3 +1,12 @@
-# DummyProject
+# Sign up Project
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.varsha
+The signup page should have fields mentioned below: <br>
+Full name* - Must contain min 5 and max 20 characters  <br>
+Email* - Must have email validation with "@" and "."   <br>
+Phone* - Must be number with 10 character   <br>
+Address - It is optional and if user enters it should be minimum 10 and max 100 characters  <br>
+DOB* - It should be date picker and it is compulsory field   <br>
+Gender* - It should be radio button with  man and women as options.  <br>
+Password* - Must have one upper case, numbers, special character and minimum 8 characters  <br>
+Confirm Password* - It should match with password   <br>
+Submit button - It should be disabled till all field are valid.   <br>
