@@ -1,6 +1,6 @@
 # DummyProject
 
-The signup page should have fields mentioned below:  <br></br>  
+The signup page should have fields mentioned below:  <br>  
 Full name* - Must contain min 5 and max 20 characters
 Email* - Must have email validation with "@" and "." 
 Phone* - Must be number with 10 character
