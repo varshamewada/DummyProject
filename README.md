@@ -10,3 +10,4 @@ Gender* - It should be radio button with  man and women as options.  <br>
 Confirm Password* - It should match with password   <br>
 Password* - Must have one upper case, numbers, special character and minimum 8 characters  <br>
 Submit button - It should be disabled till all field are valid.   <br>
+Full name* - Must contain min 5 and max 20 characters  <br>
